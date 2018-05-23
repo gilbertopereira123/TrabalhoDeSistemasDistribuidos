@@ -1,13 +1,13 @@
 # TrabalhoDeSistemasDistribuidos
 
---- Chat de troca de mensagem entre cliente e servidor.
+**** Chat de troca de mensagem entre cliente e servidor.
 
 Procedimentos:
 
 1. execute a classe servidor
 2. execute a classe cliente e digite algo.
 
---- Requisição de um arquivo no Servidor.
+**** Requisição de um arquivo no Servidor.
 
 Procedimentos:
 
